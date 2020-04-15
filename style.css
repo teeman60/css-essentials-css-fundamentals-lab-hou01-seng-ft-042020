@@ -37,9 +37,7 @@ p {
   margin: auto;
 }
 
-section {
+#details {
   display: block;
   /*float: left;*/
-
-
 }
