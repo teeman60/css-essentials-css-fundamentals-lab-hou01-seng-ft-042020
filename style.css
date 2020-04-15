@@ -39,8 +39,6 @@ figcaption {
 
 #details {
   display: block;
-  transform: rotateX(0deg);
-
 }
 
 #details ~ div {
