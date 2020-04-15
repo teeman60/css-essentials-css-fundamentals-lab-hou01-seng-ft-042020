@@ -14,7 +14,7 @@ img {
 
 }
 
-nav a[href="index.html"] {
+nav a[href=index.html] {
   text-align: center;
   background-color: lightgrey;
   padding-left: 10px;
