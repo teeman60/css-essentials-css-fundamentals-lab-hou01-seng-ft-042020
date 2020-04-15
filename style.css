@@ -17,9 +17,12 @@ img {
 body header nav {
   text-align: center;
   background-color: lightgrey;
+  
+}
+
+body header nav a {
   padding-left: 10px;
   padding-right: 10px;
-
 }
 
 figcaption {
