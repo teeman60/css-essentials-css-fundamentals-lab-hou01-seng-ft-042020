@@ -14,7 +14,7 @@ img {
 
 }
 
-nav {
+nav a[href] {
   background-color: lightgrey;
   padding-left: 10px;
   padding-right: 10px;
