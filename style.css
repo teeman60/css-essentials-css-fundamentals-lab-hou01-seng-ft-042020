@@ -45,5 +45,5 @@ p {
 
 #details ~ div {
   float: left;
-  transform: rotateX(180deg);
+  transform: rotateY(180deg);
 }
