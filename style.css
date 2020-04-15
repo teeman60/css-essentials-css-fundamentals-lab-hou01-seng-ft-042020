@@ -39,7 +39,7 @@ p {
 
 #details {
   display: block;
-  transform: rotateX(180deg);
+  transform: rotateX(90deg);
 
 }
 
