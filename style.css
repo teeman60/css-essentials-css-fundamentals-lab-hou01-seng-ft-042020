@@ -39,10 +39,11 @@ p {
 
 #details {
   display: block;
-  transform: rotateX(0deg);
+  
 
 }
 
 #details ~ div {
   float: left;
+  transform: rotateX(180deg);
 }
