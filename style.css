@@ -7,7 +7,7 @@ h1 {
   text-align: center
 }
 
-body section figure img[src="images/intro-pic.jpg"] {
+img {
   display: block;
   margin: auto;
 
