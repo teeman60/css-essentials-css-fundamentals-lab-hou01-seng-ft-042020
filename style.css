@@ -14,7 +14,7 @@ img {
 
 }
 
-body header nav[href] {
+body header nav {
   text-align: center;
   background-color: lightgrey;
   padding-left: 10px;
