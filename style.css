@@ -19,7 +19,7 @@ body header nav {
 
 }
 
-body header nav a {
+header a {
   padding-left: 10px;
   padding-right: 10px;
   background-color: lightgrey;
