@@ -42,6 +42,6 @@ p {
 
 }
 
-#details div {
+#details ~ div {
   float: left;
 }
